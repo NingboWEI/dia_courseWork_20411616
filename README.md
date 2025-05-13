@@ -1,1 +1,3 @@
-# dia_courseWork_20411616
+# Dia_Ningbo -- NewsCompanion – Your Personalized Daily News Assistant
+
+use `main.ipynb` to run the code

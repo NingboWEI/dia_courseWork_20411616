@@ -1,0 +1,6 @@
+__pycache__/
+data/nltk_data/
+/data/nltk_data/
+/try/
+/train/results/
+/data/*.csv
